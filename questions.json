@@ -1,0 +1,30 @@
+[
+{
+"question": "What does AI stand for?",
+"A": "Artificial Intelligence",
+"B": "Automated Internet",
+"C": "Advanced Interface",
+"D": "Algorithmic Input"
+},
+{
+"question": "Which company created ChatGPT?",
+"A": "Google",
+"B": "OpenAI",
+"C": "Microsoft",
+"D": "Meta"
+},
+{
+"question": "Which programming language is most commonly used for AI?",
+"A": "Python",
+"B": "Java",
+"C": "C++",
+"D": "PHP"
+},
+{
+"question": "What does LLM stand for?",
+"A": "Large Language Model",
+"B": "Logical Learning Machine",
+"C": "Linked Learning Model",
+"D": "Layered Language Mechanism"
+}
+]
